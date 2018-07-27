@@ -1,5 +1,5 @@
 # EDA-Course-Project-1
-My solution to EDA Course Project 1
+These files contain my solution to EDA Course Project 1.
 
 Hello! And thank you for reviewing my work. 
 
