@@ -1,6 +1,3 @@
-# Set working directory
-setwd("~/R/Exploratory Data Analysis/EDA CP1")
-
 # Access data.table library
 library(data.table)
 
